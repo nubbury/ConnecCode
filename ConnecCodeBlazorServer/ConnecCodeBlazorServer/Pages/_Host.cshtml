@@ -1,0 +1,52 @@
+﻿@page "/"
+@using Microsoft.AspNetCore.Components.Web
+@namespace ConnecCodeBlazorServer.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <base href="~/" />
+    <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
+    <link href="css/site.css" rel="stylesheet" />
+    <link href="ConnecCodeBlazorServer.styles.css" rel="stylesheet" />
+    <link rel="icon" type="image/png" href="favicon.png"/>
+    <component type="typeof(HeadOutlet)" render-mode="ServerPrerendered" />
+
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="icon" href="/favicon.png">
+    <title>Connect CODE</title>
+    <script defer="defer" src="/js/chunk-vendors.56bd7bae.js"></script>
+    <script defer="defer" src="/js/app.9665a883.js"></script>
+    <link href="/css/chunk-vendors.79130acf.css" rel="stylesheet">
+    <link href="/css/app.48200b78.css" rel="stylesheet">
+</head>
+<body>
+
+    
+    <div id="app"></div>
+    
+    <component type="typeof(App)" render-mode="ServerPrerendered" />
+    
+    
+
+    
+    <div id="blazor-error-ui">
+        <environment include="Staging,Production">
+            An error has occurred. This application may no longer respond until reloaded.
+        </environment>
+        <environment include="Development">
+            An unhandled exception has occurred. See browser dev tools for details.
+        </environment>
+        <a href="" class="reload">Reload</a>
+        <a class="dismiss">🗙</a>
+    </div>
+
+    <script src="_framework/blazor.server.js"></script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+C:\Dev\ConnecCode\ConnecCodeBlazorServer\ConnecCodeBlazorServer\obj\Release\net7.0\PubTmp\Out\ConnecCodeBlazorServer.exe
+C:\Dev\ConnecCode\ConnecCodeBlazorServer\ConnecCodeBlazorServer\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Dev\ConnecCode\ConnecCodeBlazorServer\ConnecCodeBlazorServer\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Dev\ConnecCode\ConnecCodeBlazorServer\ConnecCodeBlazorServer\obj\Release\net7.0\PubTmp\Out\ConnecCodeBlazorServer.dll
+C:\Dev\ConnecCode\ConnecCodeBlazorServer\ConnecCodeBlazorServer\obj\Release\net7.0\PubTmp\Out\ConnecCodeBlazorServer.deps.json
+C:\Dev\ConnecCode\ConnecCodeBlazorServer\ConnecCodeBlazorServer\obj\Release\net7.0\PubTmp\Out\ConnecCodeBlazorServer.runtimeconfig.json
+C:\Dev\ConnecCode\ConnecCodeBlazorServer\ConnecCodeBlazorServer\obj\Release\net7.0\PubTmp\Out\ConnecCodeBlazorServer.pdb

@@ -1,0 +1,717 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\ConnecCodeBlazorServer.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ConnecCodeBlazorServer.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\css\\app.48200b78.css",
+      "PackagePath": "staticwebassets\\css\\app.48200b78.css"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\css\\chunk-vendors.79130acf.css",
+      "PackagePath": "staticwebassets\\css\\chunk-vendors.79130acf.css"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\css\\chunk-vendors.993ca1ed.css",
+      "PackagePath": "staticwebassets\\css\\chunk-vendors.993ca1ed.css"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\fonts\\Phosphor-Bold.557a7a21.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Phosphor-Bold.557a7a21.woff2"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\fonts\\Phosphor-Bold.a8b3c6ac.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Phosphor-Bold.a8b3c6ac.ttf"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\fonts\\Phosphor-Bold.ecf5d385.woff",
+      "PackagePath": "staticwebassets\\fonts\\Phosphor-Bold.ecf5d385.woff"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\fonts\\Phosphor-Duotone.2cf4b756.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Phosphor-Duotone.2cf4b756.woff2"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\fonts\\Phosphor-Duotone.34fddd84.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Phosphor-Duotone.34fddd84.ttf"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\fonts\\Phosphor-Duotone.af29c55c.woff",
+      "PackagePath": "staticwebassets\\fonts\\Phosphor-Duotone.af29c55c.woff"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\fonts\\Phosphor-Fill.10844b1a.woff",
+      "PackagePath": "staticwebassets\\fonts\\Phosphor-Fill.10844b1a.woff"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\fonts\\Phosphor-Fill.2c1b9218.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Phosphor-Fill.2c1b9218.woff2"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\fonts\\Phosphor-Fill.3d513169.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Phosphor-Fill.3d513169.ttf"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\fonts\\Phosphor-Light.625fc557.woff",
+      "PackagePath": "staticwebassets\\fonts\\Phosphor-Light.625fc557.woff"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\fonts\\Phosphor-Light.cf7fc089.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Phosphor-Light.cf7fc089.woff2"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\fonts\\Phosphor-Light.de957064.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Phosphor-Light.de957064.ttf"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\fonts\\Phosphor-Thin.0ae8d3c1.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Phosphor-Thin.0ae8d3c1.woff2"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\fonts\\Phosphor-Thin.25183ded.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Phosphor-Thin.25183ded.ttf"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\fonts\\Phosphor-Thin.b153a933.woff",
+      "PackagePath": "staticwebassets\\fonts\\Phosphor-Thin.b153a933.woff"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\fonts\\Phosphor.5b9fe3dc.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Phosphor.5b9fe3dc.woff2"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\fonts\\Phosphor.94f1d8f7.woff",
+      "PackagePath": "staticwebassets\\fonts\\Phosphor.94f1d8f7.woff"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\fonts\\Phosphor.adb76019.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Phosphor.adb76019.ttf"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\fonts\\flaticon.003b766c.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.003b766c.eot"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\fonts\\flaticon.3d9f359f.woff2",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.3d9f359f.woff2"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\fonts\\flaticon.7002ceba.woff",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.7002ceba.woff"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\fonts\\flaticon.f991b66c.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.f991b66c.ttf"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\Phosphor-Bold.45d2db03.svg",
+      "PackagePath": "staticwebassets\\img\\Phosphor-Bold.45d2db03.svg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\Phosphor-Duotone.5fc590ca.svg",
+      "PackagePath": "staticwebassets\\img\\Phosphor-Duotone.5fc590ca.svg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\Phosphor-Fill.55b73314.svg",
+      "PackagePath": "staticwebassets\\img\\Phosphor-Fill.55b73314.svg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\Phosphor-Light.79242b7e.svg",
+      "PackagePath": "staticwebassets\\img\\Phosphor-Light.79242b7e.svg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\Phosphor-Thin.cb8d6f72.svg",
+      "PackagePath": "staticwebassets\\img\\Phosphor-Thin.cb8d6f72.svg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\Phosphor.e3e1508a.svg",
+      "PackagePath": "staticwebassets\\img\\Phosphor.e3e1508a.svg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\admin.5f17905c.jpg",
+      "PackagePath": "staticwebassets\\img\\admin.5f17905c.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\contact.8d1b7ea9.png",
+      "PackagePath": "staticwebassets\\img\\contact.8d1b7ea9.png"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\course-mini1.b5f0b7d1.jpg",
+      "PackagePath": "staticwebassets\\img\\course-mini1.b5f0b7d1.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\course-mini10.40c1f3d8.jpg",
+      "PackagePath": "staticwebassets\\img\\course-mini10.40c1f3d8.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\course-mini11.48581b17.jpg",
+      "PackagePath": "staticwebassets\\img\\course-mini11.48581b17.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\course-mini12.ef5bc8d9.jpg",
+      "PackagePath": "staticwebassets\\img\\course-mini12.ef5bc8d9.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\course-mini13.5e333ec2.jpg",
+      "PackagePath": "staticwebassets\\img\\course-mini13.5e333ec2.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\course-mini14.fb66adb6.jpg",
+      "PackagePath": "staticwebassets\\img\\course-mini14.fb66adb6.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\course-mini15.253ac84b.jpg",
+      "PackagePath": "staticwebassets\\img\\course-mini15.253ac84b.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\course-mini2.590a6173.jpg",
+      "PackagePath": "staticwebassets\\img\\course-mini2.590a6173.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\course-mini3.0f9784f9.jpg",
+      "PackagePath": "staticwebassets\\img\\course-mini3.0f9784f9.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\course-mini4.22bb4ad8.jpg",
+      "PackagePath": "staticwebassets\\img\\course-mini4.22bb4ad8.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\course-mini5.7a15f652.jpg",
+      "PackagePath": "staticwebassets\\img\\course-mini5.7a15f652.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\course-mini7.2f4f1d25.jpg",
+      "PackagePath": "staticwebassets\\img\\course-mini7.2f4f1d25.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\course-mini8.740bb8be.jpg",
+      "PackagePath": "staticwebassets\\img\\course-mini8.740bb8be.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\course-mini9.de10efc6.jpg",
+      "PackagePath": "staticwebassets\\img\\course-mini9.de10efc6.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\course1.60a47fc5.jpg",
+      "PackagePath": "staticwebassets\\img\\course1.60a47fc5.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\course2.d9f6563e.jpg",
+      "PackagePath": "staticwebassets\\img\\course2.d9f6563e.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\course3.44527e7e.jpg",
+      "PackagePath": "staticwebassets\\img\\course3.44527e7e.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\course4.2643d961.jpg",
+      "PackagePath": "staticwebassets\\img\\course4.2643d961.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\course5.d47f3a76.jpg",
+      "PackagePath": "staticwebassets\\img\\course5.d47f3a76.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\course6.cb82130d.jpg",
+      "PackagePath": "staticwebassets\\img\\course6.cb82130d.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\course7.f7287eb0.jpg",
+      "PackagePath": "staticwebassets\\img\\course7.f7287eb0.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\course8.749e58e1.jpg",
+      "PackagePath": "staticwebassets\\img\\course8.749e58e1.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\course9.0cb67cfb.jpg",
+      "PackagePath": "staticwebassets\\img\\course9.0cb67cfb.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\error-404.61846a6f.png",
+      "PackagePath": "staticwebassets\\img\\error-404.61846a6f.png"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\event1.2f2cea99.jpg",
+      "PackagePath": "staticwebassets\\img\\event1.2f2cea99.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\event2.a77fe484.jpg",
+      "PackagePath": "staticwebassets\\img\\event2.a77fe484.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\event3.b487c9c4.jpg",
+      "PackagePath": "staticwebassets\\img\\event3.b487c9c4.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\event4.96699e74.jpg",
+      "PackagePath": "staticwebassets\\img\\event4.96699e74.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\event5.8879db28.jpg",
+      "PackagePath": "staticwebassets\\img\\event5.8879db28.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\event6.ef320770.jpg",
+      "PackagePath": "staticwebassets\\img\\event6.ef320770.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\flaticon.206a6459.svg",
+      "PackagePath": "staticwebassets\\img\\flaticon.206a6459.svg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\gallery1.e57d3e67.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery1.e57d3e67.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\gallery2.8cde41f3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery2.8cde41f3.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\gallery3.13fe517b.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery3.13fe517b.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\gallery4.d28625b3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery4.d28625b3.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\gallery5.73618d78.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery5.73618d78.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\gallery6.5970be01.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery6.5970be01.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\gallery7.05b25232.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery7.05b25232.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\gallery8.4f0424b0.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery8.4f0424b0.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\gallery9.7b28a53a.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery9.7b28a53a.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\logo.825a33da.svg",
+      "PackagePath": "staticwebassets\\img\\logo.825a33da.svg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\maintenance.3ef53a0b.png",
+      "PackagePath": "staticwebassets\\img\\maintenance.3ef53a0b.png"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\map.2ae66092.png",
+      "PackagePath": "staticwebassets\\img\\map.2ae66092.png"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product-details1.4a1681a4.jpg",
+      "PackagePath": "staticwebassets\\img\\product-details1.4a1681a4.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product-details2.036b247b.jpg",
+      "PackagePath": "staticwebassets\\img\\product-details2.036b247b.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product-details3.18902263.jpg",
+      "PackagePath": "staticwebassets\\img\\product-details3.18902263.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product-details4.af429f85.jpg",
+      "PackagePath": "staticwebassets\\img\\product-details4.af429f85.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product-mini1.ddc6b31d.jpg",
+      "PackagePath": "staticwebassets\\img\\product-mini1.ddc6b31d.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product-mini2.86a1015b.jpg",
+      "PackagePath": "staticwebassets\\img\\product-mini2.86a1015b.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product-mini3.7694ccbb.jpg",
+      "PackagePath": "staticwebassets\\img\\product-mini3.7694ccbb.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product-mini4.2d4e7eb9.jpg",
+      "PackagePath": "staticwebassets\\img\\product-mini4.2d4e7eb9.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product-mini5.ecb486cc.jpg",
+      "PackagePath": "staticwebassets\\img\\product-mini5.ecb486cc.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product1.77718724.jpg",
+      "PackagePath": "staticwebassets\\img\\product1.77718724.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product10.de6ca384.jpg",
+      "PackagePath": "staticwebassets\\img\\product10.de6ca384.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product11.2fbe8cc9.jpg",
+      "PackagePath": "staticwebassets\\img\\product11.2fbe8cc9.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product12.b5463a22.jpg",
+      "PackagePath": "staticwebassets\\img\\product12.b5463a22.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product13.06689be6.jpg",
+      "PackagePath": "staticwebassets\\img\\product13.06689be6.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product14.92fba5d0.jpg",
+      "PackagePath": "staticwebassets\\img\\product14.92fba5d0.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product15.9e028499.jpg",
+      "PackagePath": "staticwebassets\\img\\product15.9e028499.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product16.6adab0c5.jpg",
+      "PackagePath": "staticwebassets\\img\\product16.6adab0c5.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product17.b1df640b.jpg",
+      "PackagePath": "staticwebassets\\img\\product17.b1df640b.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product18.558b347c.jpg",
+      "PackagePath": "staticwebassets\\img\\product18.558b347c.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product19.4c0f9e5e.jpg",
+      "PackagePath": "staticwebassets\\img\\product19.4c0f9e5e.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product2.da87ac8e.jpg",
+      "PackagePath": "staticwebassets\\img\\product2.da87ac8e.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product20.fde7d171.jpg",
+      "PackagePath": "staticwebassets\\img\\product20.fde7d171.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product21.087fc400.jpg",
+      "PackagePath": "staticwebassets\\img\\product21.087fc400.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product22.57fa8a4e.jpg",
+      "PackagePath": "staticwebassets\\img\\product22.57fa8a4e.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product23.20cd03ab.jpg",
+      "PackagePath": "staticwebassets\\img\\product23.20cd03ab.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product24.7f501791.jpg",
+      "PackagePath": "staticwebassets\\img\\product24.7f501791.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product25.a25bb701.jpg",
+      "PackagePath": "staticwebassets\\img\\product25.a25bb701.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product26.6d1ec2b9.jpg",
+      "PackagePath": "staticwebassets\\img\\product26.6d1ec2b9.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product3.e5e4ba6e.jpg",
+      "PackagePath": "staticwebassets\\img\\product3.e5e4ba6e.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product4.93aa7b70.jpg",
+      "PackagePath": "staticwebassets\\img\\product4.93aa7b70.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product5.c0ec8bfe.jpg",
+      "PackagePath": "staticwebassets\\img\\product5.c0ec8bfe.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product6.824fe8dc.jpg",
+      "PackagePath": "staticwebassets\\img\\product6.824fe8dc.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product7.398293ed.jpg",
+      "PackagePath": "staticwebassets\\img\\product7.398293ed.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product8.87f36dd3.jpg",
+      "PackagePath": "staticwebassets\\img\\product8.87f36dd3.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\product9.f865a408.jpg",
+      "PackagePath": "staticwebassets\\img\\product9.f865a408.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\project-mini1.b7913322.jpg",
+      "PackagePath": "staticwebassets\\img\\project-mini1.b7913322.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\project-mini2.41a30caa.jpg",
+      "PackagePath": "staticwebassets\\img\\project-mini2.41a30caa.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\project-mini3.b4dc88a8.jpg",
+      "PackagePath": "staticwebassets\\img\\project-mini3.b4dc88a8.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\project-mini4.f3f3d02e.jpg",
+      "PackagePath": "staticwebassets\\img\\project-mini4.f3f3d02e.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\project-mini5.f0506997.jpg",
+      "PackagePath": "staticwebassets\\img\\project-mini5.f0506997.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\project-mini6.539b21a2.jpg",
+      "PackagePath": "staticwebassets\\img\\project-mini6.539b21a2.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\review-product.2838f025.jpg",
+      "PackagePath": "staticwebassets\\img\\review-product.2838f025.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\settings.baf4fa1b.jpg",
+      "PackagePath": "staticwebassets\\img\\settings.baf4fa1b.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\social-timeline.6f6e76f1.jpg",
+      "PackagePath": "staticwebassets\\img\\social-timeline.6f6e76f1.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\social1.fe7d024e.jpg",
+      "PackagePath": "staticwebassets\\img\\social1.fe7d024e.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\social10.c8889c29.jpg",
+      "PackagePath": "staticwebassets\\img\\social10.c8889c29.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\social2.7753dd01.jpg",
+      "PackagePath": "staticwebassets\\img\\social2.7753dd01.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\social3.2742d219.jpg",
+      "PackagePath": "staticwebassets\\img\\social3.2742d219.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\social4.51ceb58f.jpg",
+      "PackagePath": "staticwebassets\\img\\social4.51ceb58f.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\social5.143aab68.jpg",
+      "PackagePath": "staticwebassets\\img\\social5.143aab68.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\social6.7a65ed83.jpg",
+      "PackagePath": "staticwebassets\\img\\social6.7a65ed83.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\social7.eb5b4fc1.jpg",
+      "PackagePath": "staticwebassets\\img\\social7.eb5b4fc1.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\social8.bb1ff95a.jpg",
+      "PackagePath": "staticwebassets\\img\\social8.bb1ff95a.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\social9.9539aa24.jpg",
+      "PackagePath": "staticwebassets\\img\\social9.9539aa24.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\starter.dc4a2e23.png",
+      "PackagePath": "staticwebassets\\img\\starter.dc4a2e23.png"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\user1.82037da5.jpg",
+      "PackagePath": "staticwebassets\\img\\user1.82037da5.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\user11.01ba290f.jpg",
+      "PackagePath": "staticwebassets\\img\\user11.01ba290f.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\user13.82ef23f6.jpg",
+      "PackagePath": "staticwebassets\\img\\user13.82ef23f6.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\user14.9b76cd7b.jpg",
+      "PackagePath": "staticwebassets\\img\\user14.9b76cd7b.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\user15.f6e733dd.jpg",
+      "PackagePath": "staticwebassets\\img\\user15.f6e733dd.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\user16.f843a02d.jpg",
+      "PackagePath": "staticwebassets\\img\\user16.f843a02d.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\user2.32106929.jpg",
+      "PackagePath": "staticwebassets\\img\\user2.32106929.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\user3.cd403a78.jpg",
+      "PackagePath": "staticwebassets\\img\\user3.cd403a78.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\user4.89c11888.jpg",
+      "PackagePath": "staticwebassets\\img\\user4.89c11888.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\user5.80ece6e0.jpg",
+      "PackagePath": "staticwebassets\\img\\user5.80ece6e0.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\user8.6c838778.jpg",
+      "PackagePath": "staticwebassets\\img\\user8.6c838778.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\user9.67e5b1a5.jpg",
+      "PackagePath": "staticwebassets\\img\\user9.67e5b1a5.jpg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\welcome1.1814fce0.png",
+      "PackagePath": "staticwebassets\\img\\welcome1.1814fce0.png"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\welcome2.b45a6703.png",
+      "PackagePath": "staticwebassets\\img\\welcome2.b45a6703.png"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\welcome3.0db670b3.png",
+      "PackagePath": "staticwebassets\\img\\welcome3.0db670b3.png"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\img\\white-logo.7b53c956.svg",
+      "PackagePath": "staticwebassets\\img\\white-logo.7b53c956.svg"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\js\\153.0d21d214.js",
+      "PackagePath": "staticwebassets\\js\\153.0d21d214.js"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\js\\153.0d21d214.js.map",
+      "PackagePath": "staticwebassets\\js\\153.0d21d214.js.map"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\js\\431.9fe83b4e.js",
+      "PackagePath": "staticwebassets\\js\\431.9fe83b4e.js"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\js\\858.be7890ea.js",
+      "PackagePath": "staticwebassets\\js\\858.be7890ea.js"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\js\\891.a94931fc.js",
+      "PackagePath": "staticwebassets\\js\\891.a94931fc.js"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\js\\891.a94931fc.js.map",
+      "PackagePath": "staticwebassets\\js\\891.a94931fc.js.map"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\js\\93.736ae6df.js",
+      "PackagePath": "staticwebassets\\js\\93.736ae6df.js"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\js\\app.9665a883.js",
+      "PackagePath": "staticwebassets\\js\\app.9665a883.js"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\js\\app.9665a883.js.map",
+      "PackagePath": "staticwebassets\\js\\app.9665a883.js.map"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\js\\chunk-vendors.56bd7bae.js",
+      "PackagePath": "staticwebassets\\js\\chunk-vendors.56bd7bae.js"
+    },
+    {
+      "Id": "C:\\Dev\\ConnecCode\\ConnecCodeBlazorServer\\ConnecCodeBlazorServer\\wwwroot\\js\\chunk-vendors.56bd7bae.js.map",
+      "PackagePath": "staticwebassets\\js\\chunk-vendors.56bd7bae.js.map"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.ConnecCodeBlazorServer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.ConnecCodeBlazorServer.props",
+      "PackagePath": "build\\ConnecCodeBlazorServer.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ConnecCodeBlazorServer.props",
+      "PackagePath": "buildMultiTargeting\\ConnecCodeBlazorServer.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.ConnecCodeBlazorServer.props",
+      "PackagePath": "buildTransitive\\ConnecCodeBlazorServer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
